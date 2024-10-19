@@ -24,6 +24,7 @@ const productos = [
     });
   }
   
+
   // Función agregar productos al carrito
   function agregarAlCarrito(idProducto) {
     let carrito = obtenerCarrito();
